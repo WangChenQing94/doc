@@ -1,0 +1,24 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "笔记文档",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WangChenQing94/doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WangChenQing94/doc/issues"
+  },
+  "homepage": "https://github.com/WangChenQing94/doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
